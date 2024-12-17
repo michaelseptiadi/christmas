@@ -6,7 +6,7 @@ import ParticlesComponent from './components/Particles';
 function App() {
   const [media, setMedia] = useState(false)
   useEffect(() =>{
-    setMedia(window.matchMedia("(min-width: 900px)").matches)
+    setMedia(window.matchMedia("(min-width: 500px)").matches)
   }, [])
   return (
     <div className="App">
