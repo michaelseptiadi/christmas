@@ -16,7 +16,7 @@ function App() {
           media ? <ControlledCarousel /> :
           <div className="carousel-container">
             <div className="text-container">
-                <h3 style={{ fontFamily: "Mountains of Christmas", fontWeight: '700', fontSize: '64px' }}>YAHHH GABISA DIBUKA<br/> COBA BUKA DI LAPTOP PASTI BISA DEHHH</h3>
+                <h3 style={{ fontFamily: "Mountains of Christmas", fontWeight: '700', fontSize: '64px' }}>YAHHH GABISA DIBUKA<br/> COBA BUKA DI LAPTOP PASTI BISA DEHHH. JANGAN LUPA HPNYA BUAT VIDEO REACTION YAAAA!!!!</h3>
             </div>
           </div>
         }

@@ -17,7 +17,7 @@ function ControlledCarousel() {
     const [doneQues, setDoneQues] = useState(false)
 
     const sendMessage = () => {
-        if (message.length < 10) {
+        if (message.length < 300) {
             setShow(true)
         }else{
             setMessageSend(true)
